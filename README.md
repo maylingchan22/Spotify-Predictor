@@ -1,5 +1,7 @@
 ### Predicting Spotify Song Popularity
 
+Dataset located in Kaggle: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
+
 #### Problem Statement
 
 The goal of this project is to predict the popularity of songs on Spotify based on various factors. By identifying the patterns and factors that contribute to a song's success and popularity, this predictive model can assist artists, producers, and the music industry in making informed decisions to optimize a song's performance on Spotify.
